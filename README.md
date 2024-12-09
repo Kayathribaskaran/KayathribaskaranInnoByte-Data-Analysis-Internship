@@ -27,6 +27,6 @@ By conducting a thorough analysis of the Amazon sales report, the goal is to gai
 
 Python Code <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Amazon%20Sales%20Report%20.ipynb">View Code</a>
 
-Dashboard <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/edit/main/README.md">View Code</a>
+Dashboard <a href = https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Amazon%20Sales%20Report%20.pbix>View Code</a>
 
 Screenshots <a href = "
