@@ -24,3 +24,9 @@ Deliverables:
 
 Expected Outcome:
 By conducting a thorough analysis of the Amazon sales report, the goal is to gain valuable insights that can be leveraged to optimize business operations, enhance customer experience, and drive revenue growth. The analysis should provide actionable recommendations tailored to the specific needs and challenges of the business.
+
+Python Code <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Amazon%20Sales%20Report%20.ipynb">View Code</a>
+
+Dashboard <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/edit/main/README.md">View Code</a>
+
+Screenshots <a href = "
