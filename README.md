@@ -29,7 +29,7 @@ Python Code <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoB
 
 Dashboard <a href ="https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Amazon%20Sales%20Report%20.pbix">View Code</a>
 
-Documentation <a href ="https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/InnoByte%20Data%20Analysis%20Internship.docx">Documentation"</a>
+Documentation <a href ="https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/InnoByte%20Data%20Analysis%20Internship.docx">Documentation</a>
 
 Screenshots <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Screenshorts.zip">Screenshots</a>
 
