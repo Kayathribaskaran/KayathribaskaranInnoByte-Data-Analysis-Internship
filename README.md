@@ -29,4 +29,6 @@ Python Code <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoB
 
 Dashboard <a href = https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Amazon%20Sales%20Report%20.pbix>View Code</a>
 
-Screenshots <a href = "
+Screenshots <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Screenshorts.zip">Screenshots</a>
+
+
