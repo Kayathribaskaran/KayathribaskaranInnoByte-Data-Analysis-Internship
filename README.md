@@ -6,7 +6,7 @@ Problem Statement:
 Problem Description:
 The provided dataset contains information about sales transactions on Amazon, including details such as order ID, date, status, fulfilment method, sales channel, product category, size, quantity, amount, shipping details, and more. The objective is to conduct a comprehensive analysis of the data and extract actionable insights to support business decision-making.
 
-Datasets: <a href = "C:\Users\jbkvk\Downloads\innobyte data analyst project\Amazon Sale Report.csv edit.csv">Datasets<a/>
+Datasets: <a href = "C:\Users\jbkvk\Downloads\innobyte data analyst project\Amazon Sale Report.csv edit.csv">Datasets</a>
 
 Key Objectives:
 1. Sales Overview: Understand the overall sales performance, trends, and patterns overcome.
@@ -29,6 +29,6 @@ Python Coding = <a href = "https://github.com/Kayathribaskaran/KayathribaskaranI
 
 Visualizations = <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Amazon%20Sales%20Report%20.pbix">Dashboard</a>
 
-Screenshots = <a href = "">Jupyter</a>
+Screenshots = <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/InnoByte%20Data%20Analysis%20Internship.docx">Screenshots</a>
 
-Documentation = <a href = "">Word</a>
+Documentation = <a href = "">MS Word</a>
