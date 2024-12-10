@@ -31,4 +31,4 @@ Visualizations = <a href = "https://github.com/Kayathribaskaran/Kayathribaskaran
 
 Screenshots = <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/InnoByte%20Data%20Analysis%20Internship.docx">Screenshots</a>
 
-Documentation = <a href = "">MS Word</a>
+Documentation = <a href = "https://github.com/Kayathribaskaran/KayathribaskaranInnoByte-Data-Analysis-Internship/blob/main/Screenshorts.zip">MS Word</a>
